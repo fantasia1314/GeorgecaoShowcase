@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on My Classwork Showcase</title>
+    <link>https://chenlianggeorgecao.netlify.app/</link>
+    <description>Recent content in Home on My Classwork Showcase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://chenlianggeorgecao.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://chenlianggeorgecao.netlify.app/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenlianggeorgecao.netlify.app/introduction/</guid>
+      <description>Hi, I&amp;rsquo;m Chenliang Cao, but you can call me George. I&amp;rsquo;m currently in my first year as a graduate student at RIT, studying Applied Statistics. I&amp;rsquo;ve already earned a Master&amp;rsquo;s degree in Data Science last year. This is my showcase website for my STAT 787 course.</description>
+    </item>
+    
+    <item>
+      <title>Shiny App</title>
+      <link>https://chenlianggeorgecao.netlify.app/shiny-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenlianggeorgecao.netlify.app/shiny-app/</guid>
+      <description>This is my first-ever Shiny app. It allows you to either upload your own data or generate a new dataset. Then, you can choose up to five machine learning models to train on the dataset. Scan the QR code below to visit my Shiny app.</description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://chenlianggeorgecao.netlify.app/rmarkdown-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenlianggeorgecao.netlify.app/rmarkdown-files/</guid>
+      <description>These are my main projects completed during the first half of the semester in STAT 787:
+Homework 1 Homework 2 Homework 3 </description>
+    </item>
+    
+  </channel>
+</rss>
