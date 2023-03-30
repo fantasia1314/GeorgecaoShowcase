@@ -1,25 +1,4 @@
-baseURL: "http://chenlianggeorgecao.netlify.app/"
-title: "My Classwork Showcase"
-languageCode: "en-us"
-theme: "blank" # if you are using a custom theme
-paginate: 5 # the number of items per page for lists
-
-# Configure permalinks
-permalinks:
-  introduction: /introduction/
-  shiny-app: /shiny-app/
-  rmarkdown-files: /rmarkdown-files/
-
-# Configure menu
-menu:
-  main:
-    - name: "Introduction"
-      url: "/introduction/"
-      weight: 1
-    - name: "Shiny App"
-      url: "/shiny-app/"
-      weight: 2
-    - name: "R Markdown Files"
-      url: "/rmarkdown-files/"
-      weight: 3
-      
+theme: "blank"
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
