@@ -1,9 +1,0 @@
----
-title: "shiny-app"
----
-
-# My First Shiny App
-
-This is my first-ever Shiny app. It allows you to either upload your own data or generate a new dataset. Then, you can choose up to five machine learning models to train on the dataset. Here's the QR code that directs you to the Shiny app:
-
-![QR Code](GeorgeCaoShiny.png){width="500"}
