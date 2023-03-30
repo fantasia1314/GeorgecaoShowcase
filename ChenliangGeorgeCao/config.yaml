@@ -1,0 +1,17 @@
+title: "George's STAT 787 Showcase"
+baseURL: "/"
+languageCode: "en-us"
+theme: "blank"
+author: "Chenliang Cao"
+
+params:
+  avatar: "avatar.jpg"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+    - name: "Shiny App"
+      url: "/shiny-app/"
+    - name: "Homework"
+      url: "/homework/"
