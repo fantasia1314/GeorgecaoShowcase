@@ -1,5 +1,5 @@
 title: "George's STAT 787 Showcase"
-baseURL: "/"
+baseURL: "http://example.org/"
 languageCode: "en-us"
 theme: "blank"
 author: "Chenliang Cao"
@@ -11,7 +11,3 @@ menu:
   main:
     - name: "Home"
       url: "/"
-    - name: "Shiny App"
-      url: "/shiny-app/"
-    - name: "Homework"
-      url: "/homework/"
