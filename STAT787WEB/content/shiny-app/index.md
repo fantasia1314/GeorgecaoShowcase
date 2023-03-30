@@ -8,4 +8,4 @@ This is my first-ever Shiny app. It allows you to either upload your own data or
 
 Scan the QR code below to visit my Shiny app.
 
-<img src="/shiny-app/GeorgeCaoShiny.png" alt="QR Code" width="500">
+{{< figure src="GeorgeCaoShiny.png" alt="QR Code" width="500" >}}
