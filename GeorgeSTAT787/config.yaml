@@ -1,4 +1,4 @@
-baseURL: "https://"
+baseURL: "https://yourdomain.com/"
 title: "My Classwork Showcase"
 languageCode: "en-us"
 theme: "blank" # if you are using a custom theme
@@ -6,9 +6,9 @@ paginate: 5 # the number of items per page for lists
 
 # Configure permalinks
 permalinks:
-  introduction: /:filename/
-  shiny-app: /:filename/
-  rmarkdown-files: /:filename/
+  introduction: /introduction/
+  shiny-app: /shiny-app/
+  rmarkdown-files: /rmarkdown-files/
 
 # Configure menu
 menu:
@@ -17,11 +17,12 @@ menu:
       url: "/"
       weight: 1
     - name: "Introduction"
-      url: "/introduction"
+      url: "/introduction/"
       weight: 2
     - name: "Shiny App"
-      url: "/shiny-app"
+      url: "/shiny-app/"
       weight: 3
     - name: "R Markdown Files"
-      url: "/rmarkdown-files"
+      url: "/rmarkdown-files/"
       weight: 4
+      
