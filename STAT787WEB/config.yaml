@@ -4,15 +4,13 @@ languageCode: "en-us"
 theme: "blank" # if you are using a custom theme
 paginate: 5 # the number of items per page for lists
 
-# Configure permalinks
-permalinks:
-  shiny-app: /shiny-app/
-  homework1: /homework1/
-  homework2: /homework2/
-  homework3: /homework3/
+
 
 # Configure menu
 menu:
   main:
+    - name: "Home"
+      url: "/"
+      weight: 0
 
       
