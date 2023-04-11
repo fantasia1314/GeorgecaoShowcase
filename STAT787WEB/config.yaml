@@ -14,16 +14,19 @@ permalinks:
 # Configure menu
 menu:
   main:
+    - name: "Home"
+      url: "/"
+      weight: 0
     - name: "Shiny App"
       url: "/shiny-app/"
-      weight: 0
+      weight: 1
     - name: "Homework1"
       url: "/homework1/"
-      weight: 1
+      weight: 2
     - name: "Homework2"
       url: "/homework2/"
-      weight: 2
+      weight: 3
     - name: "Homework3"
       url: "/homework3/"
-      weight: 3
+      weight: 4
       
