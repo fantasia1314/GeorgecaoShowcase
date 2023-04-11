@@ -12,3 +12,9 @@ Feel free to browse around and get to know more about my work!
 
 
 {{< figure src="avatar.jpg" alt="avatar" width="500" >}}
+
+
+- [Homework 1](homework1.pdf)
+- [Homework 2](homework2.pdf)
+- [Homework 3](homework3.pdf)
+- [Shiny App](Shinyapp.pdf)
