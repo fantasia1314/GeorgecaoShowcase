@@ -2,13 +2,14 @@ baseURL: "http://chengeorgeliangcao.netlify.app/"
 title: "My Classwork Showcase"
 languageCode: "en-us"
 theme: "blank" # if you are using a custom theme
-paginate: 5 # the number of items per page for lists
+
 
 # Configure permalinks
 permalinks:
-  introduction: /introduction/
   shiny-app: /shiny-app/
-  rmarkdown-files: /rmarkdown-files/
+  homework1: /homework1/
+  homework2: /homework2/
+  homework3: /homework3/
 
 # Configure menu
 menu:
@@ -16,13 +17,16 @@ menu:
     - name: "Home"
       url: "/"
       weight: 0
-    - name: "Introduction"
-      url: "/introduction/"
-      weight: 1
     - name: "Shiny App"
       url: "/shiny-app/"
+      weight: 1
+    - name: "Homework1"
+      url: "/homework1/"
       weight: 2
-    - name: "R Markdown Files"
-      url: "/rmarkdown-files/"
+    - name: "Homework2"
+      url: "/homework2/"
       weight: 3
+    - name: "Homework3"
+      url: "/homework3/"
+      weight: 4
       
