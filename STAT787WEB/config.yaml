@@ -14,9 +14,6 @@ permalinks:
 # Configure menu
 menu:
   main:
-    - name: "Home"
-      url: "/"
-      weight: 0
     - name: "Shiny App"
       url: "/shiny-app/"
       weight: 1
