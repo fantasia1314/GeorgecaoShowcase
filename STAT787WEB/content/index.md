@@ -4,6 +4,10 @@ date: 2023-03-30
 output: html_document
 ---
 
+
+- [Homework 1](homework1.pdf)- [Homework 2](homework2.pdf)- [Homework 3](homework3.pdf)
+- [Shiny App](Shinyapp.pdf)
+
 Hi, I'm Chenliang Cao, but you can call me George. 
 I'm currently in my first year as a graduate student at RIT, studying Applied Statistics. 
 I've already earned a Master's degree in Data Science last year. 
@@ -13,8 +17,3 @@ Feel free to browse around and get to know more about my work!
 
 {{< figure src="avatar.jpg" alt="avatar" width="500" >}}
 
-
-- [Homework 1](homework1.pdf)
-- [Homework 2](homework2.pdf)
-- [Homework 3](homework3.pdf)
-- [Shiny App](Shinyapp.pdf)
