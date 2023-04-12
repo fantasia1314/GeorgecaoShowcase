@@ -5,8 +5,7 @@ output: html_document
 ---
 
 
-- [Homework 1](homework1.pdf)- [Homework 2](homework2.pdf)- [Homework 3](homework3.pdf)
-- [Shiny App](Shinyapp.pdf)
+- [Homework 1](homework1.pdf)- [Homework 2](homework2.pdf)- [Homework 3](homework3.pdf)- [Shiny App](Shinyapp.pdf)
 
 Hi, I'm Chenliang Cao, but you can call me George. 
 I'm currently in my first year as a graduate student at RIT, studying Applied Statistics. 

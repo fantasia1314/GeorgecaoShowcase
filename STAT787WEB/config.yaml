@@ -1,16 +1,22 @@
-baseURL: "http://chengeorgeliangcao.netlify.app/"
+baseURL: "http://chenlianggeorgecao.netlify.app/"
 title: "My Classwork Showcase"
 languageCode: "en-us"
 theme: "blank" # if you are using a custom theme
-paginate: 5 # the number of items per page for lists
-
-
 
 # Configure menu
 menu:
   main:
-    - name: "Home"
-      url: "/"
-      weight: 0
+    - name: "Shiny App"
+      url: "/Shinyapp.pdf"
+      weight: 1
+    - name: "Homework1"
+      url: "/homework1.pdf"
+      weight: 2
+    - name: "Homework2"
+      url: "/homework2.pdf"
+      weight: 3
+    - name: "Homework3"
+      url: "/homework3.pdf"
+      weight: 4
 
       
