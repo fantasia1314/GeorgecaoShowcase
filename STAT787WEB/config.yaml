@@ -9,8 +9,6 @@ paginate: 5 # the number of items per page for lists
 # Configure menu
 menu:
   main:
-    - name: "Home"
-      url: "/"
-      weight: 0
+    
 
       
