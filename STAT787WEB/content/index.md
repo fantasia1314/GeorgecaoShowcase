@@ -13,7 +13,7 @@ output: html_document
 
 <div class="intro-container">
   <div class="avatar-container">
-    {{< figure src="avatar.jpg" alt="avatar" width="500" >}}
+    {{< img src="avatar.jpg" alt="avatar" width="500" >}}
   </div>
   <div class="text-container">
     <p>
