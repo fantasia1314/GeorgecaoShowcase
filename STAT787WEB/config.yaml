@@ -32,8 +32,6 @@ params:
     list:
       - company: Shanghai Fire Technology Engineering Co,Ltd.
         dates: 2018 - 2020
-        details: Printed from desktop. Sent [emails](#). Called people using telephone.
-          Drank water from office cooler. Ate donuts on people's birthdays.
         position: Project manager assistant
       - company: Shanghai Haitong Securities Co,Ltd
         dates: June.2015-Aug.2015
@@ -51,9 +49,9 @@ params:
   hobby:
     icon: fas fa-gamepad
     list:
-      - hobby: Cooking
+      - hobby: Saxophone
       - hobby: Hiking
-      - hobby: Baking
+      - hobby: Lego
     title: Hobbies
   profile:
     location: Rochester, NY
