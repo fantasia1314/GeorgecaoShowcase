@@ -63,7 +63,7 @@ params:
     list:
       - description: Description of the project
         title: Homework 1
-        url: '#'
+        url: '/content/homework1'
       - description: Description of the project
         title: Homework 2
         url: '#'
