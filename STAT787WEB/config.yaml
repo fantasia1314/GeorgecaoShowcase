@@ -24,21 +24,21 @@ params:
         thesis_title: 'Anomaly Detection for Muultivariate Time-Series'
         thesis_url: '#'
       - college: Rochester Insititute of Technology
-        dates: 2022 - *Present*
+        dates: 2022 - Present
         degree: M.S. in Applied Statisitcs
     title: Education
   experience:
     icon: fas fa-briefcase
     list:
-      - company: Company Name
-        dates: 2019 - *Present*
+      - company: Shanghai Fire Technology Engineering Co,Ltd.
+        dates: 2018 - 2020
         details: Printed from desktop. Sent [emails](#). Called people using telephone.
           Drank water from office cooler. Ate donuts on people's birthdays.
-        position: Job Title
-      - company: Company Name
-        dates: 2018 - 2019
-        position: Job Title
-        url: '#'
+        position: Project manager assistant
+      - company: Shanghai Haitong Securities Co,Ltd
+        dates: June.2015-Aug.2015
+        position: Summer Interm
+        url: 'https://www.htsec.com/ChannelHome/index.shtml'
     title: Experiences
   favicons:
     metas: "        <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"apple-touch-icon.png\">\r\n
@@ -59,7 +59,7 @@ params:
     location: Rochester, NY
     name: Chenliang, Cao.
     photo: profile.jpg
-    tagline: Title
+    tagline: George
   project:
     icon: fas fa-project-diagram
     list:
