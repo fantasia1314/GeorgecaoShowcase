@@ -137,7 +137,7 @@ params:
         url: '#'
       - icon: fab fa-github
         title: GitHub
-        url: '#'
+        url: 'https://github.com/fantasia1314?tab=repositories'
       - icon: fab fa-twitter
         title: Twitter
         url: '#'
