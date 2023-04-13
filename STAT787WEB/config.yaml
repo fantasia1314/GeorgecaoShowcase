@@ -63,16 +63,16 @@ params:
     list:
       - description: Description of the project
         title: Homework 1
-        url: '/pdfs/homework1'
+        url: '/pdfs/homework1.pdf'
       - description: Description of the project
         title: Homework 2
-        url: '/pdfs/homework2'
+        url: '/pdfs/homework2.pdf'
       - description: Description of the project
         title: Homework 3
-        url: '/pdfs/homework3'
+        url: '/pdfs/homework3.pdf'
       - description: Description of the project
         title: Shiny-App Project
-        url: '/pdfs/Shinyapp'
+        url: '/pdfs/Shinyapp.pdf'
     title: Projects
   publication:
     format:
