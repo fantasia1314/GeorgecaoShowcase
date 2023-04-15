@@ -61,18 +61,21 @@ params:
   project:
     icon: fas fa-project-diagram
     list:
-      - description: Description of the project
+      - description: STAT787 Homework1 
         title: Homework 1
         url: '/pdfs/homework1.pdf'
-      - description: Description of the project
+      - description: STAT787 Homework2 
         title: Homework 2
         url: '/pdfs/homework2.pdf'
-      - description: Description of the project
+      - description: STAT787 Homework3 
         title: Homework 3
         url: '/pdfs/homework3.pdf'
-      - description: Description of the project
+      - description: This is my shiny app can that allows you use your own data or generated data to train mutiple learning machine and compare the result.
         title: Shiny-App Project
         url: '/pdfs/Shinyapp.pdf'
+      - description: Create a tree package that can use both classification tree and regression tree.
+        title: R Package Project
+        url: 'https://github.com/fantasia1314/GeorgeTree' 
     title: Projects
   publication:
     format:
